@@ -12,3 +12,6 @@ Make sure you have the horizon cli (and therefore rethinkdb) installed then:
 ``` npm i ```
 
 ``` npm run dev ```
+
+
+open up the browser and goto: http://localhost:8181/
